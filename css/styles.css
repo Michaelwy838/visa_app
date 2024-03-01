@@ -1,0 +1,27 @@
+.index{
+    height: 100vh;
+    box-sizing: border-box;
+}
+span{
+    background-color: black;
+    color: white;
+}
+.button{
+    background-color: rgb(0, 172, 232);
+    border: none;
+    color: white;
+    display: block;
+    width: 100%;
+    padding: 8px;
+}
+.head{
+    border-bottom: 1px solid grey;
+}
+.sucess{
+    background-color: green; !important
+    color: white; !important
+}
+.error{
+    background-color: red; !important
+    color: white; !important
+}

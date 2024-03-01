@@ -1,0 +1,9 @@
+|
+|-------------VISA PORTAL SOFTWARE STEPS TO CONNECT---------------------
+|   0. C:\xampp\htdocs
+|  1. install xampp application on your windows computer
+|  2. open xampp and start Apache and Mysql
+|  3. open your browser and in the search bar type localhost/visa_portal
+|  4. Enter
+|     User Name: visa
+|     Password: visa@256
